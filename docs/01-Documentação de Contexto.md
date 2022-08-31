@@ -12,7 +12,7 @@ Diante desse cenário, a ação de bancos de alimentos nos municípios do país 
 
 O Banco Municipal de Alimentos (BMA) de Poços de Caldas integra a Política de Segurança Alimentar e Nutricional da cidade, que é operacionalizada por meio da Secretaria Municipal de Promoção Social. Esse banco de alimentos recebe e adquire gêneros alimentícios e os distribui a entidades da rede socioassistencial e hospitalar e a famílias em situação de risco e IA.
 
-Somente entre os meses de janeiro a abril de 2021, o BMA/Poços de Caldas arrecadou cerca de 77 toneladas de alimentos que foram convertidos em cestas básicas para as famílias cadastradas. Entretanto, essa iniciativa ainda não possui uma ferramenta de controle que permita às entidades parceiras, também responsáveis pela distribuição de cestas básicas, a consulta de informações como o nome da pessoa beneficiada e a data de recebimento da cesta básica.
+Somente entre os meses de janeiro a abril de 2021, o BMA/Poços de Caldas arrecadou cerca de 77 toneladas de alimentos que foram convertidos em cestas básicas para as famílias cadastradas. Entretanto, essa iniciativa ainda não possui uma ferramenta de controle que permita às entidades envolvidas, responsáveis pela distribuição de cestas básicas, a consulta de informações como o nome da pessoa beneficiada e a data de recebimento da cesta básica.
 
 Esse fato pode gerar o recebimento de cestas básicas em duplicidade pelos participantes do programa, reduzindo o número de famílias atendidas, uma vez que não há compartilhamento da informação entre os diferentes pontos de distribuição.
 
@@ -22,7 +22,7 @@ Nesse sentido, este projeto tem por finalidade a criação de um sistema para ge
 ## Problema
 Atualmente, o Banco de Alimentos de Poços de Caldas conta com postos de doação de alimentos em diferentes regiões da cidade, no entanto, controlar a distribuição de alimentos entre os beneficiários das doações tem sido um desafio para aqueles que estão envolvidos nesse processo.
 
-A distribuição de cestas básicas do BMA/Poços de Caldas é realizada pelo próprio Banco de Alimentos e pelos Centros de Referência de Assistência Social (CRAS). Além disso, as entidades da rede socioassistencial regularmente constituídas e inscritas no Conselho Municipal de Segurança Alimentar e Nutricional (COMSEA), como asilos, casas de passagem, comunidades terapêuticas e hospitais recebem alimentos do BMA  para realização de atividades assistenciais. 
+A distribuição de cestas básicas do BMA/Poços de Caldas é realizada pelo próprio Banco de Alimentos e pelos Centros de Referência de Assistência Social (CRAS). Além disso, as entidades da rede socioassistencial regularmente constituídas e inscritas no Conselho Municipal de Segurança Alimentar e Nutricional (COMSEA), como asilos, casas de passagem, comunidades terapêuticas e hospitais recebem alimentos do BMA para realização de atividades assistenciais. 
 
 Cada uma dessas instituições registra em seu controle interno o que foi distribuído, contudo, inexiste entre esses entes um sistema de comunicação que compartilhe, em tempo real, informações das cestas concedidas e seus respectivos beneficiários.
 
@@ -55,7 +55,9 @@ A demanda demonstra aderência à área de Sistemas para Internet, sendo, assim,
 
 ## Público-Alvo
 
-Todas as instituições públicas ou privadas que atuam com foco em fornecimento de cestas básicas a população carente de Poços de Caldas, onde as instituições que tenham interesse em compartilhar dados sobre suas doações poderão racionalizar as doações, de modo a aumentar o número de beneficiários dessa rede de assistência social em Poços de Caldas.
+O público-alvo são servidores e colaboradores do BMA e do CRAS responsáveis pelo processo de registro e distribuição de cestas básicas, bem como os beneficiários do programa. 
+
+Além disso, a página inicial do sistema visa apresentar informações da BMA e prestar contas sobre o dinheiro público investido na ação aos cidadão da cidade de Poços de Caldas. 
 
 ## Estado da Arte
 
@@ -98,16 +100,20 @@ Fonte: https://play.google.com/store/apps/details?id=br.com.vonbraunlabs.vivavid
 
 ## Usuários
 
-Homens e mulheres que representem ou estejam vinculadas às entidades socioassistencial regularmente constituídas e inscritas no COMSEA, como por exemplo: APAE, ADEFIP, Igrejas, etc.
+No projeto são considerados dois principais tipos de usuários: funcionários vinculados ao BMA e ao CRAS que estejam envolvidos com o processo de distribuição de cestas básicas; e os beneficiários do programa de assistência social de doação de alimentos. 
 
-É necessário que tais usuários tenham um perfil administrativo, pesquisador e estejam dispostos a promover o maior controle possível na distribuição de cestas básicas.
+No caso dos funcionários, é necessário que tais usuários tenham um perfil administrativo, pesquisador e estejam dispostos a promover o maior controle possível na distribuição de cestas básicas. São necessidades desses usuários: 
 
-Necessidades do Usuário:
-- Poder verificar o número de cestas básicas disponíveis para distribuição;
-- Poder consultar o CPF dos receptores a fim de verificar o registro da distruição;
-- Poder cadastrar um receptor caso o mesmo se enquadre no perfil;
-- Através da consulta do CPF, ter uma facilidade em visualizar que tipo de cesta a pessoa recebe e se ainda não recebeu no mês. 
+- Verificar o número de cestas básicas disponíveis para distribuição;
+- Consultar o CPF dos beneficiários do programa de doação de alimentos a fim de verificar o registro da distribuição;
+- Cadastrar um beneficiário do programa de doação de alimentos;
+- Visualizar que tipo de cesta o beneficiário recebe, se ainda não recebeu no mês e saber a data do próximo recebimento.
 
+No caso dos beneficiários as necessidades são: 
+
+- Consultar a data do próximo recebimento de cesta básica/verde;;
+- Consultar o local de retirada de cesta básica/verde;
+- Consultar histórico de últimos recebimentos;
 
 
 ## Personas
