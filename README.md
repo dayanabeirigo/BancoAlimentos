@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# SISTEMA DE GERENCIAMENTO DO BMA
 
 `SISTEMAS PARA INTERNET`
 
@@ -10,15 +10,16 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Adriana
-* Amanda
-* Dayana
-* Elaine
-* Leonardo
+*Adriana Cristina Souza Leite
+*Amanda Paloma Lourenço
+*Dayana Cecília Reis Beirigo Dutra
+*Elaine Souza Melo
+* Leonardo Ruas Santos
+
 
 ## Orientador
 
-* Nome completo do professor 1
+* Will Ricardo dos Santos Machado
 
 ## Instruções de utilização
 
