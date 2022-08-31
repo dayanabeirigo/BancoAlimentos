@@ -226,7 +226,7 @@ No caso dos beneficiários as necessidades são:
     <td>
       <li>Ver jornal</li>
       <li>Ler a Bíblia</li>
-      <li>No último ano, percebeu que os projetos sociais da igreja não tem conseguido contemplar todas as pessoas em situação de vulnerabildiade social</li>
+      <li>No último ano, percebeu que os projetos sociais da igreja não tem conseguido contemplar todas as pessoas em situação de vulnerabilidade social</li>
     </td>
   </tr>
   <tr>
@@ -328,7 +328,7 @@ No caso dos beneficiários as necessidades são:
       <li>Ler jornais</li>
       <li>Passar tempo com o marido</li>
       <li>Assistir séries</li>
-      <li>Recebeu denuncias sobre beneficiários do Banco de Alimentos que teriam recebido o benefício em locais diferentes</li>
+      <li>Recebeu denúncias sobre beneficiários do Banco de Alimentos que teriam recebido o benefício em locais diferentes</li>
     </td>
   </tr>
 </table>
