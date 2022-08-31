@@ -11,7 +11,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Usuário BMA/CRAS | Alterar cadastro de beneficiários| Permitir a atualização/correção de dados do beneficiário |
 |Usuário BMA/CRAS | Registrar cestas básicas/verdes e pontos para os quais as cestas foram enviadas | Registrar nº de cestas básicas e local de distribuição para prestação de contas |
 |Usuário BMA/CRAS | Consultar se beneficiário já recebeu auxílio durante o período de referência | Evitar concessão de cesta básica em duplicidade |
-|Usuário Concedente | Registrar o benefício entregue ao beneficiário | Deduzir saldo e deixar registrado que o beneficiário já recebeu o benefício |
+|Usuário BMA/CRAS | Registrar o benefício entregue ao beneficiário | Deduzir saldo e deixar registrado que o beneficiário já recebeu o benefício |
 |Beneficiário | Consultar data de recebimento do próximo benefício | Evitar deslocamento desnecessário para recebimento de benefício |
 |Beneficiário | Consultar locais com cestas disponíveis | Localizar o endereço mais próximo com cestas em estoque |
 |Cidadão| Quantidade de cestas doadas e quantidade de família atendidas| 	Dar transparência ao trabalho do BMA| 
@@ -22,7 +22,7 @@ O quadro abaixo apresenta uma breve definição de cada perfil:
 |Perfil| Descrição
 |--------------------|------------------------------------|
 |Administrador|	Servidor do BMA/CRAS com grau máximo de visualização e controle do sistema|
-|Usuário BMA|	Servidor/colaborador vinculado ao BMA que recebe, separa e prepara as cestas básicas e cestas verdes, cadastra beneficiários|
+|Usuário BMA/CRAS |	Servidor/colaborador vinculado ao BMA/CRAS que recebe, separa e prepara as cestas básicas e cestas verdes, cadastra beneficiários|
 |Beneficiário| 	Pessoa que recebe a cesta básica ou a cesta verde|
 |Cidadão |	Qualquer pessoa que acesse o site para buscar infomações sobre o Banco de Alimentos|
 
@@ -58,12 +58,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| Utilizar o SCRUM como metodologia de desenvolvimento| MÉDIA | 
-|RNF-002| O sistema deve ser web | BAIXA | 
+|RNF-001| Utilizar o SCRUM como metodologia de desenvolvimento| ALTA | 
+|RNF-002| O sistema deve ser web |MÉDIA | 
 |RNF-003| O sistema será desenvolvido em HTML5, CSS3 e JS| MÉDIA| 
-|RNF-004| O sistema deve ser executado nos principais navegadores (Chrome, mozila e Edge)| MÉDIA  
-|RNF-005| O sistema deve ser responsivo para adaptação em dispositivos móveis | ALTA | 
-|RNF-006| Deve processar requisições do usuário em no máximo 3s| MÉDIA| 
+|RNF-004| O sistema deve ser executado nos principais navegadores (Chrome, mozila e Edge)| MÉDIA | 
+|RNF-005| O sistema deve ser responsivo para adaptação em dispositivos móveis | MÉDIA | 
+|RNF-006| Deve processar requisições do usuário em no máximo 3s| BAIXA| 
 |RNF-007| Para que o sistema seja acessado, é necessário estar conectado a internet| MÉDIA| 
 |RNF-008| Utilizar um banco de dados para verificar informações de usuários, cestas, beneficiários e instituições| MÉDIA| 
 |RNF-009| O sistema deve exigir autenticação prévia de usuários| MÉDIA| 
