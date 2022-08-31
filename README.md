@@ -10,10 +10,10 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-*Adriana Cristina Souza Leite
-*Amanda Paloma Lourenço
-*Dayana Cecília Reis Beirigo Dutra
-*Elaine Souza Melo
+* Adriana Cristina Souza Leite
+* Amanda Paloma Lourenço
+* Dayana Cecília Reis Beirigo Dutra
+* Elaine Souza Melo
 * Leonardo Ruas Santos
 
 
